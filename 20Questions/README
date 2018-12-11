@@ -1,0 +1,14 @@
+Training a chatbot to play 20 questions
+
+
+References for code:
+
+ [1] https://github.com/pochih/RL-Chatbot
+ [2] https://github.com/pender/chatbot-rnn
+ [3] https://github.com/voicy-ai/DialogStateTracking
+ [4] https://arxiv.org/pdf/1702.03274.pdf
+ [5] https://arxiv.org/pdf/1606.01541.pdf
+ [6] https://towardsdatascience.com/training-a-goal-oriented-chatbot-with-deep-reinforcement-learning-part-i-introduction-and-dce3af21d383
+
+Train the model by running train.py
+To interact with the chatbot, run interact.py
